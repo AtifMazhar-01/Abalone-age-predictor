@@ -1062,7 +1062,7 @@ Make sure the following are installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AtifMazhar-01/Abalone-age-predictor
 ```
 
 Move into the project directory:
